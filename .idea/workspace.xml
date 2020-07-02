@@ -1,9 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1da95c77-8f84-405e-9a34-ff6dd53d9f63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dZNRZi5fBor0fDRsgkCeGopdct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1da95c77-8f84-405e-9a34-ff6dd53d9f63" name="Default Changelist" comment="" />
+      <created>1592715135931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592715135931</updated>
+      <workItem from="1592715139176" duration="169000" />
+      <workItem from="1592716408120" duration="3022000" />
+      <workItem from="1592926119099" duration="8263000" />
+      <workItem from="1593028449993" duration="539000" />
+      <workItem from="1593527703975" duration="5132000" />
+      <workItem from="1593645031871" duration="545000" />
+      <workItem from="1593645581078" duration="99000" />
+      <workItem from="1593645765605" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592734295317">
+      <screen x="60" y="0" width="1860" height="1080" />
+    </state>
+    <state x="449" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/60.0.1860.1080@60.0.1860.1080" timestamp="1592734295317" />
+    <state x="724" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593028585518">
+      <screen x="60" y="0" width="1860" height="1080" />
+    </state>
+    <state x="724" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/60.0.1860.1080@60.0.1860.1080" timestamp="1593028585518" />
+    <state x="516" y="173" key="SettingsEditor" timestamp="1593645674084">
+      <screen x="60" y="0" width="1860" height="1080" />
+    </state>
+    <state x="516" y="173" key="SettingsEditor/60.0.1860.1080@60.0.1860.1080" timestamp="1593645674084" />
+    <state x="653" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1593028837228">
+      <screen x="60" y="0" width="1860" height="1080" />
+    </state>
+    <state x="653" y="234" width="672" height="678" key="search.everywhere.popup/60.0.1860.1080@60.0.1860.1080" timestamp="1593028837228" />
   </component>
 </project>

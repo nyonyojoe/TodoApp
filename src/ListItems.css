@@ -1,0 +1,24 @@
+.list{
+    color: aliceblue;
+    background-color: darkmagenta;
+    min-height: 50px;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.list p{
+    padding: 20px;
+    position: relative;
+}
+
+.list p span{
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+
+.faicons{
+    margin: 0 5px;
+    font-size: 15px;
+}
